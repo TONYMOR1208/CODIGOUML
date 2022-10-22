@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejercicio_3.Persona">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAgAACAABAAAAAEAAAAACAABA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio_3.Cinefilo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAYAEAg4AAAAAAAAAAAA=</HashCode>
+      <FileName>Cinefilo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio_3.Cine">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAAAAIgAAAAAAAAAAgIABAAgAAAABAgA=</HashCode>
+      <FileName>Cine.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Productora" />
+      <Property Name="Cinefilo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicio_3.Productora">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACCAIAAAAAAAAAAAEGAAAAAAAAAAggABAAAAAA=</HashCode>
+      <FileName>Productora.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cine" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicio_3.Empleados">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAEBAAAAABAAAAAhAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="practica1.persona">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAIAIAAIgAAAAAAAAAKAIAAAAgAAAAA=</HashCode>
+      <FileName>persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica1.Vendedor">
+    <Position X="7.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIAAAAAEAAAAADAAAAAAAAYgAAAAABA=</HashCode>
+      <FileName>Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica1.Comprador">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAIAAAAEAAAAAAABAAAAAAAAYAAAAAARA=</HashCode>
+      <FileName>Comprador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="practica1.Coche">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAACAAAACAAAAAAAAAAAAAAAABAAACAAAAgAAAJAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Vendedor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="practica1.PAGAR">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAABAAAAAAABABAAAAIAAAAAAAAAAAABAAAQAg=</HashCode>
+      <FileName>PAGAR.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Comprador" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>

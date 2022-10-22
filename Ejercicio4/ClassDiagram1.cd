@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejercicio4.Profesor">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAASAAAIAAAAABAAAAAAAAAACIAAAGAAAAAA=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.Promedio">
+    <Position X="12" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAgAAAAAAICAAAgAAAAAAAAAAAAAAABAAEGA=</HashCode>
+      <FileName>Notas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Profesor" />
+      <Property Name="Estudiante" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicio4.Estudiante">
+    <Position X="7.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAIAAAAAAAgAQCAAAAAAAAgAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.ENTIDAD">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAEACAAgAAAAAAABgAAAAAAAAAAACQ=</HashCode>
+      <FileName>ENTIDAD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio4.SALARIO">
+    <Position X="11.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgACAAIABAAAAEAAAAAAAAAAAAAAAAAIABAAABQAAAA=</HashCode>
+      <FileName>SALARIO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Profesor" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>

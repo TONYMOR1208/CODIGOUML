@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EJERCICO_2.Humano">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAIgAIAAAAAAgIAIAAAAAAAABA=</HashCode>
+      <FileName>Humano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EJERCICO_2.Cliente">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABASgAAAAAAAAICAAAAAAAAAgCAAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EJERCICO_2.Provedor">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIAAAAgAAAAAAAAAAAAAEIAAAAgAAAABAAACA=</HashCode>
+      <FileName>Provedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EJERCICO_2.Pago">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAQCAAAAAKAAAABACCAAAQAAAAAA=</HashCode>
+      <FileName>Pago.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EJERCICO_2.Tipos_Laptops">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwAAAQAIAAAACAAABAAEAAAACAAAAAAAAIEAA=</HashCode>
+      <FileName>Tipos_Laptops.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Provedor" />
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>

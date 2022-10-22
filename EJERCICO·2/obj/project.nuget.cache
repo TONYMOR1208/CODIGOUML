@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sU4ziPRfOrGwPpGaVFDadCUiKW4eJ7HCi1xa1+zlx9+oWMsU2i05zpsHPehxITXhxhV/Zk/9XvHL1UrjlGRDHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\proyectos de poo\\EJERCICO·2\\EJERCICO·2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
